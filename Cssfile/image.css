@@ -1,45 +1,82 @@
 .main-container{
     display: block;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    align-items: left;
+    margin-left: 90px;
+    margin-right: 20px;
+    margin-bottom: 90px;
+
 }
 .containter-block{
     display: block;
 }
 .div-img{
     display: inline-block;
-    width: 65%;
+    width: 62%;
 }
 .img-info{
+    flex: 1;
     display: inline-block;
     width: 33%;
     vertical-align: top;
+    margin-left: 10px;
 }
 .img-detail{
     width: 98%;
 }
-.image-title{
-    width: 400px;
+.image-title1,
+.image-title2{
+    
+    width: 350px;
+    text-align: justify;
     font-size: 36px;
     font-weight: 700;
     line-height: 40px;
+    
+}
+.image-title1{
     margin-top: 20px;
     margin-bottom: 10px;
 }
-.image-description{
-    width: 370px;
-    margin-bottom: 50px;
+.image-title2{
+    margin-top: 10px;
+}
+
+.image-description-1,
+.image-description-2{
+    width: 350px;
+    text-align: justify;
+}
+
+.image-description-1{
+    line-height: 22px;
+    font-weight: 350;
+    color: black;
+}
+.image-description-2{
+    
+    font-size: 9px;
+    line-height: 15px;
+    color: rgb(79, 78, 78)
 }
 .Underline-color{
     text-decoration: underline;
     color: #006bae;
 }
-.order-now{
-    background-color:rgb(255, 188, 13);
+.order-now,
+.Get-a-Free-Big-Mac{
+    background-color:rgba(252, 187, 22, 0.973);
     border: none;
-    color: black;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 400;
     font-size: 16px;
-    padding: 14px 28px;
+    padding: 15px 30px;
     border-radius: 4px;
+}
+.order-now{
+    margin-top: 30px;
+}
+.Get-a-Free-Big-Mac{
+    margin-top: 40px; 
 }
