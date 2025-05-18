@@ -1,0 +1,111 @@
+/*=====================
+        Footer
+=======================*/
+
+footer{
+    margin-top: 10px;
+}
+
+
+/*========================
+    Footer - First Layer
+=========================*/
+
+.footer-upper-text{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    vertical-align: top;
+    padding-left: 30px;
+    padding-right: 70px;
+}
+.footer-inside-text{
+    display: flex;
+    flex-direction: column;
+}
+.footer-inside-text p{
+    line-height: 28px;
+    cursor: pointer;
+    width: 180px;
+}
+
+
+/*========================
+    Footer - Second Layer
+=========================*/
+
+.footer-second-layer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 50px;
+    padding-bottom: 45px;
+    border-bottom: 1px solid rgb(133, 127, 127);
+}
+
+
+.footer-second-layer-left img{
+    width: 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.footer-second-layer-right img{
+    cursor: pointer;
+}
+
+/*========================
+    Footer - Third Layer
+=========================*/
+
+.footer-third-layer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.footer-third-layer-left{
+    width: 70%;
+    gap: 50px;
+}
+.footer-third-layer-left-upper{
+    display: flex;
+    justify-content: space-between;
+    width:100%;
+    margin-top: 30px;
+}
+.footer-third-layer-left-upper p, 
+.footer-third-layer-left-bottom p,
+.footer-third-layer-right p {
+    text-align: right;
+    color: rgb(100, 99, 99);
+    cursor: pointer;
+}
+
+.footer-third-layer-left-bottom{
+    display: flex;
+    justify-content: space-between;
+    width:78%;
+    margin-top: 30px;
+}
+
+.footer-third-layer-right{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.footer-third-layer-right img{
+    width: 30px;
+    height: 30px;
+    vertical-align: top;
+}
+
+
+      

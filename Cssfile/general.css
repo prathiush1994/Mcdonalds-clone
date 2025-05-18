@@ -3,8 +3,7 @@
 }
 body{
     font-family: Roboto, 'Arial';
-    margin-bottom: 500px;
-    
+    overflow-x: hidden;
 }
 .body-main-container{
     display: flex;

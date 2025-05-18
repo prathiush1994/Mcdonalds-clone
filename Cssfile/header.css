@@ -1,3 +1,7 @@
+/*=====================
+        Header
+=======================*/
+
 header{
     display: flex;
     flex-direction: row;
@@ -15,12 +19,22 @@ header{
     gap: 30px;
 }
 
+/*=====================
+    Header - left side
+=======================*/
+
 .leftside{
     width: 120px;
 }
 .leftside img{
     width: 100%;
+    cursor: pointer;
 }
+
+
+/*=====================
+    Header - Right side
+=======================*/
 
 .right-side{
     display: flex;
@@ -29,6 +43,9 @@ header{
     max-width: 1100px;
 }
 
+/*=========================
+Header - Right side - upper 
+==========================*/
 
 .right-upper-container{
     display: flex;
@@ -43,6 +60,7 @@ header{
     flex-direction: row;
     align-items: center;
     justify-content: space-around;
+    
 }
 .right-upper-leftside{
     gap: 50px;
@@ -54,6 +72,7 @@ header{
 .right-upper-leftside div, .right-upper-rightside div{
     display: flex;
     align-items: center;
+    cursor: pointer;
 }
 .right-upper-leftside div{
     gap: 5px;
@@ -91,7 +110,9 @@ header{
 }
 
 
-
+/*=========================
+Header - Right side - bottom 
+==========================*/
 
 
 .right-bottom{
