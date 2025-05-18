@@ -1,5 +1,15 @@
+*{
+    margin: 0%;
+}
 body{
     font-family: Roboto, 'Arial';
     margin-bottom: 500px;
     
+}
+.body-main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    column-gap: 70px;
 }

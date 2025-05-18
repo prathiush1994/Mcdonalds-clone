@@ -1,0 +1,118 @@
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 1px 0.01px rgba(0,0,0,0.1);
+}
+.header-container{
+    display: flex;
+    max-width: 1150px;
+    width: 100%;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.leftside{
+    width: 120px;
+}
+.leftside img{
+    width: 100%;
+}
+
+.right-side{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    max-width: 1100px;
+}
+
+
+.right-upper-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    min-width: 980px;
+}
+
+.right-upper-leftside,
+.right-upper-rightside{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.right-upper-leftside{
+    gap: 50px;
+}
+.right-upper-rightside{
+    gap: 35px;
+}
+    
+.right-upper-leftside div, .right-upper-rightside div{
+    display: flex;
+    align-items: center;
+}
+.right-upper-leftside div{
+    gap: 5px;
+}
+.right-upper-rightside div{
+    gap: 10px;
+}   
+.right-upper-leftside h4{
+    margin: 0;
+}
+.right-upper-leftside p{
+    font-size: 12px;
+}
+.right-upper-rightside button{
+    background-color: rgb(255, 188, 13);
+    border-radius: 4px;
+    padding: 12px 26px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    color: rgba(48, 48, 48, 1) ;
+}
+.right-upper-rightside span{
+    text-decoration: underline;
+    color: rgba(0, 107, 174, 1);
+    font-size: 14px;
+    font-weight: 400;
+}
+.right-upper-rightside p{
+    font-size: 14px;
+    color: rgba(48, 48, 48, 1);
+}
+.right-upper-rightside img{
+    width:16px
+}
+
+
+
+
+
+.right-bottom{
+    display: flex;
+    flex-direction: rows;
+    justify-content: center;
+    justify-content: space-between;
+    max-width: 920px;
+    width: 100%;    
+    height: 50px;
+    
+}
+
+.right-bottom div{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.right-bottom h4{
+    margin-left: 5px;
+}
+.div-app{
+    border-bottom: 3px solid rgb(175, 1, 1);
+}

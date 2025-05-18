@@ -1,7 +1,152 @@
 .body-main-container{
     display: flex;
     justify-content: center;
-    align-items: center;
+}
+.div-body-main-container{
+    display: flex;
+    margin-top: 110px;
     flex-direction: column;
-    column-gap: 70px;
+    justify-content: center;
+    max-width: 1150px;
+    width: 100%;
+    row-gap: 120px;
+}
+.upper-text{
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 56px;
+    text-align: center;
+}
+
+
+.main-container{
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    gap: 35px
+}
+.div-img{
+    display: inline-block;
+    width: 63%;
+}
+.img-detail{
+    width: 100%;
+}
+
+.img-info{
+    display: inline-block;
+    width: 30%;
+}
+.img-info1{
+    display: inline-block;
+    width: 20%;
+}
+.Underline-color{
+    text-decoration: underline;
+    color: #006bae;
+    cursor: pointer;
+}
+
+
+.image-title1{
+    width: 360px;
+    font-size: 38px;
+    font-weight: 700;
+    line-height: 40px;
+}
+.image-title1{
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+
+.image-description-1{
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+.image-description-1,
+.image-description-2{
+    width: 360px;
+    line-height: 22px;
+}
+
+.image-description-1{
+    font-weight: 350;
+    color: black;
+}
+
+.image-description-2{
+    width: 350px;
+    text-align: justify;
+    font-size: 9px;
+    line-height: 15px;
+    font-weight: 300;
+    color: black;
+}
+
+.Yellow-button{
+    background-color:rgba(252, 187, 22, 0.973);
+    border: none;
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 400;
+    font-size: 16px;
+    padding: 15px 30px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 50px; 
+}
+
+
+
+
+.main-container-last{
+    display: block;
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    gap: 35px
+}
+.div-img-last{
+    display: inline-block;
+    width: 40%;
+}
+
+.img-detail-last1{
+    width: 100%;
+}
+
+.img-info-last{
+    display: inline-block;
+    width: 30%;
+}
+.image-title-last{
+    width: 500px;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.image-description-last{
+    width: 500px;
+    margin-bottom: 20px;
+}
+.img-detail-last{
+    display:inline-block;
+    width:100px 
+} 
+
+.bottom-last-text{
+    font-size: 34px;
+    font-weight: 900;
+    line-height: 56px;
+    margin-bottom: 20px;
+}
+.bottom-last-text2{
+    line-height: 20px;
+}
+.bottom-last-text2 u{
+    cursor: pointer;
+    color: #006bae;
 }

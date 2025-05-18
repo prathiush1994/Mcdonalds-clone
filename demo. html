@@ -1,0 +1,234 @@
+                         
+            
+            
+            
+            
+
+            <!-- =============Third image =========== -->
+            <section class="main-container">
+                <div class="containter-block">
+                    <div class="div-img">
+                        <img class="img-detail" src="image/3.avif">
+                    </div>
+                    <div class="img-info">
+                        <h2 class="image-title3">
+                            Wanna save $$? Do it with McValue™
+                        </h2>
+                        <p class="image-description-1">
+                            Get more than you expect (and for less) with meal deals, 
+                            all-day deals, stuff-you-can’t-stop-thinking-about deals 
+                            & more with <span class="Underline-color">McValue</span>.
+                        </p>
+                        <p class="image-description-1">
+                            Check out the three ways to save.*
+                        </p>
+                        <ol class="List-style">
+                            <li>Buy one, Add one for $1 all day long</li>
+                            <li>$5 Meal Deal</li>
+                            <li>App Exclusive Deals</li>
+                        </ol>
+                        <p class="image-description-2">
+                            *Prices and participation may vary. McDouble 
+                            Meal $6 in some markets. Meal Deal for a limited time only. 
+                            Buy one add one for $1 valid for item of equal or lesser value. 
+                            Must opt in to Rewards for app deals.
+                        </p>
+                        <button class="Get-a-Free-Big-Mac">
+                                Order in the App
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- =============Fourth image =========== -->
+            <section class="main-container">
+                <div class="containter-block">
+                    <div class="div-img">
+                        <img class="img-detail" src="image/4.avif">
+                    </div>
+                    <div class="img-info">
+                        <h2 class="image-title4">
+                            Breakfast comes first. Don’t forget it.
+                        </h2>
+                        <p class="image-description-3">
+                            You don’t wake up dreaming of Fries, 
+                            but you do dream of a McGriddles®, McMuffin®, 
+                            Biscuit or Hash Browns. It’s time to put lunch back 
+                            in its place—order breakfast when you can in the app 
+                            for pickup or McDelivery.*
+                        <p class="image-description-2">
+                            *At participating McDonald’s. Prices may be higher than at restaurants. 
+                            Delivery/other fees may apply. 
+                        </p>
+                        <button class="Get-a-Free-Big-Mac">
+                                Order in ther App
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            
+
+            <!-- =============sixth image =========== -->
+            <section class="main-container">
+                <div class="containter-block">
+                    <div class="div-img">
+                        <img class="img-detail" src="image/6.avif">
+                    </div>
+                    <div class="img-info">
+                        <h2 class="image-title6">
+                            50 years of Ronald McDonald House Charities<sup>®</sup>
+                        </h2>
+                        <p class="image-description-16">
+                            McDonald’s is proud to be a Founding and Forever Partner of the 
+                            <span class="Underline-color">Ronald McDonald House Charities,</span>
+                            but it’s difficult to make a difference without your efforts. 
+                            Thank you for impacting the lives of families when they need it most—in 2023, 
+                            your donations helped raise over $200 million which provided over 2 million overnight stays.
+                            <br>
+                            <br>
+                            Continue leaving your mark with a gift to RMHC by selecting National RMHC Donation from the 
+                            menu in the app or rounding up your order at the counter and Drive Thru.
+                        </p>
+                        <button class="Get-a-Free-Big-Mac">
+                                Donate now
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- =============seven image =========== -->
+            <section class="main-container">
+                <div class="containter-block">
+                    <div class="div-img">
+                        <img class="img-detail" src="image/7.avif">
+                    </div>
+                    <div class="img-info">
+                        <h2 class="image-title7">
+                            ‘More Black Designers’ is the New Black
+                        </h2>
+                        <p class="image-description-17">
+                            The 2024 McDonald’s Change of Fashion Program is focused on driving 
+                            change when it comes to Black representation in fashion. 
+                            The industry frequently pulls inspiration from Black culture, 
+                            but doesn’t always embrace Black creatives. 
+                            After all, only 7.3% of American fashion designers are Black.*
+                        </p>
+                        <p class="image-description-17">
+                            So, we’re pairing five, rising Black designers with five fashion 
+                            insiders for career-changing mentorships. 
+                            The program will also provide access and resources, 
+                            and give their brands a chance to shine.
+                        </p>
+                         <p class="image-description-2">
+                            *Per 
+                            <span class="Underline-color">Zippia.com </span>
+                            as of 2021.
+                        </p>
+                        <button class="Get-a-Free-Big-Mac">
+                                Follow on Instagram @wearegolden
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- =============Eight image =========== -->
+            <section class="main-container">
+                <div class="containter-block">
+                    <div class="div-img">
+                        <img class="img-detail" src="image/8.webp">
+                    </div>
+                    <div class="img-info">
+                        <h2 class="image-title8">
+                            “McD’s Best Burgers Ever.” - Hamburglar
+                        </h2>
+                        <p class="image-description-17">
+                            You’re gonna love the hotter, juicier, 
+                            tastier upgrades we’ve made to burgers like our 
+                            Cheeseburger and Double Cheeseburger.* 
+                            From patties grilled with onions and perfectly 
+                            melted cheese to new soft, pillowy buns—these are 
+                            our best burgers yet. Ask the Hamburglar, he can’t 
+                            keep his hands off of ‘em. Robble, robble.
+                        </p>
+                        <p class="image-description-17">
+                            Get one today in the app for pickup or McDelivery®.^
+                        </p>
+                         <p class="image-description-2">
+                            *Comparison of McDonald’s classic burgers to prior burgers.
+                            <br>
+                            ^At participating McDonald’s. McDelivery prices may be higher 
+                            than at restaurants. Delivery/other fees may apply.
+                        </p>
+                        <button class="Get-a-Free-Big-Mac">
+                                Order in the App
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            
+
+
+
+.order-now{
+    margin-top: 30px;
+}
+.image-title3{
+    margin-bottom: 15px;
+}
+.image-title4{
+    margin-top: 10px;
+    margin-bottom:15px
+}
+
+.List-style{
+    font-weight: 600;
+    margin-top: 40px;
+} 
+
+
+
+.image-description-3{
+    font-weight: 300;
+    line-height: 20px;;
+    font-size: 16px;
+}
+
+
+.image-description-16{
+    width: 360px;
+    line-height: 22px;
+    color: rgb(86, 86, 86);
+}
+.image-description-17{
+    width: 370px;
+    line-height: 23px;
+    color: rgb(86, 86, 86);
+    font-weight: 350;
+}
+
+.image-title6{
+    width: 360px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.image-title7{
+    width: 380px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.image-title8{
+    width: 350px;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
